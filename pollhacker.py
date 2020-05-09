@@ -120,8 +120,8 @@ def get_choice_id():
             print("match got")
             choice_id=choice[i]['choiceId']
         
-global scraplist
-scraplist=[]
+
+
 def using_proxy():
   
   o=choice(l)
@@ -148,9 +148,9 @@ def using_proxy():
 def scrapping():
   proxy={}
   c=get_random_proxies()#double check though not necessary
-  if len(scraplist)==len(proxies):
-    print("Proxies emptied : i'm gonna exit")
-    sys.exit(1)
+
+    
+
 
 
   
