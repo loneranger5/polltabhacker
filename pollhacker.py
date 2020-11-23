@@ -1,7 +1,5 @@
 #author @Loneranger5
 #instagram @iim_groot
-#Bugbounty Hunter 
-#தமிழன்டா :-)
 #this is a lazy script and im not good at coding these stuffs :-)
 
 import threading
