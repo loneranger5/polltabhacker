@@ -1,5 +1,4 @@
 #author @Loneranger5
-#instagram @iim_groot
 #this is a lazy script and im not good at coding these stuffs :-)
 
 import threading
